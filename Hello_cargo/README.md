@@ -1,0 +1,1 @@
+Cargo is a rust build system and package manager. Rustaceans use this tool to manage their projects because cargo handles a lot of tasks for you such as building your code, downloading their libraries the code depends on and building those libraries 

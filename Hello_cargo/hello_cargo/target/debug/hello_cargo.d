@@ -1,0 +1,1 @@
+/home/leone/Coding/Web3-Rust-Development/Rust_Introduction/Hello_cargo/hello_cargo/target/debug/hello_cargo: /home/leone/Coding/Web3-Rust-Development/Rust_Introduction/Hello_cargo/hello_cargo/src/main.rs
